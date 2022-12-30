@@ -1,0 +1,146 @@
+[
+    {
+        "schoolName": "一貫道崇德學院",
+        "schoolID": "iktcds"
+    },
+    {
+        "schoolName": "大葉大學",
+        "schoolID": "dyu"
+    },
+    {
+        "schoolName": "大漢技術學院",
+        "schoolID": "dahan"
+    },
+    {
+        "schoolName": "中山醫學大學",
+        "schoolID": "csmu"
+    },
+    {
+        "schoolName": "中州科技大學",
+        "schoolID": "ccut"
+    },
+    {
+        "schoolName": "中國醫藥大學",
+        "schoolID": "cmu"
+    },
+    {
+        "schoolName": "中臺科技大學",
+        "schoolID": "ctust"
+    },
+    {
+        "schoolName": "仁德醫護管理專科學校",
+        "schoolID": "jente"
+    },
+    {
+        "schoolName": "弘光科技大學",
+        "schoolID": "hk"
+    },
+    {
+        "schoolName": "亞太創意技術學院",
+        "schoolID": "apic"
+    },
+    {
+        "schoolName": "亞洲大學",
+        "schoolID": "asia"
+    },
+    {
+        "schoolName": "明道大學",
+        "schoolID": "mdu"
+    },
+    {
+        "schoolName": "東海大學",
+        "schoolID": "thu"
+    },
+    {
+        "schoolName": "南開科技大學",
+        "schoolID": "nkut"
+    },
+    {
+        "schoolName": "建國科技大學",
+        "schoolID": "ctu"
+    },
+    {
+        "schoolName": "修平科技大學",
+        "schoolID": "hust"
+    },
+    {
+        "schoolName": "國立中興大學",
+        "schoolID": "nchu"
+    },
+    {
+        "schoolName": "國立東華大學",
+        "schoolID": "ndhu"
+    },
+    {
+        "schoolName": "國立虎尾科技大學",
+        "schoolID": "nfu"
+    },
+    {
+        "schoolName": "國立雲林科技大學",
+        "schoolID": "yuntech"
+    },
+    {
+        "schoolName": "國立勤益科技大學",
+        "schoolID": "ncut"
+    },
+    {
+        "schoolName": "國立彰化師範大學",
+        "schoolID": "ncue"
+    },
+    {
+        "schoolName": "國立暨南國際大學",
+        "schoolID": "ncnu"
+    },
+    {
+        "schoolName": "國立臺中科技大學",
+        "schoolID": "nutc"
+    },
+    {
+        "schoolName": "國立臺中教育大學",
+        "schoolID": "ntcu"
+    },
+    {
+        "schoolName": "國立臺灣體育運動大學",
+        "schoolID": "ntupes"
+    },
+    {
+        "schoolName": "國立聯合大學",
+        "schoolID": "nuu"
+    },
+    {
+        "schoolName": "逢甲大學",
+        "schoolID": "fcu"
+    },
+    {
+        "schoolName": "朝陽科技大學",
+        "schoolID": "cyut"
+    },
+    {
+        "schoolName": "慈濟大學",
+        "schoolID": "tcu"
+    },
+    {
+        "schoolName": "慈濟科技大學",
+        "schoolID": "tcust"
+    },
+    {
+        "schoolName": "僑光科技大學",
+        "schoolID": "ocu"
+    },
+    {
+        "schoolName": "臺灣觀光學院",
+        "schoolID": "tht"
+    },
+    {
+        "schoolName": "靜宜大學",
+        "schoolID": "pu"
+    },
+    {
+        "schoolName": "嶺東科技大學",
+        "schoolID": "ltu"
+    },
+    {
+        "schoolName": "環球科技大學",
+        "schoolID": "twu"
+    }
+]

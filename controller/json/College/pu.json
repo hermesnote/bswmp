@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "人文暨社會科學院",
+        "collegeID": "pu_01"
+    },
+    {
+        "collegeName": "外語學院",
+        "collegeID": "pu_02"
+    },
+    {
+        "collegeName": "國際學院",
+        "collegeID": "pu_03"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "pu_04"
+    },
+    {
+        "collegeName": "資訊學院",
+        "collegeID": "pu_05"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "pu_06"
+    }
+]

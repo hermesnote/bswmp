@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+/* 綜合搜尋框 點擊時無背景 */
+	#mainSearch_compet:active {
+		background: none;
+	}
+	#mainSearch_advisor:active {
+		background: none;
+	}
+	#mainSearch_exam:active {
+		background: none;
+	}
+	#mainSearch_site:active{
+		background: none;
+	}
+/* 綜合搜尋框無背景 End */

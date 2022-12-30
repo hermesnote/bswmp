@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+	body {
+	font-family: "Microsoft JhengHei", "微軟正黑體", "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin: 0;
+	}
+	/* Gobal setting */
+	a {
+	  color: inherit;
+	}
+	a:focus, a:hover, a:active, a:visited {
+	  text-decoration: none;
+	  color: inherit;
+	}
+	/* Gobal setting */
+	H3 {
+	font-weight: bold;
+	}
+	.index-wmpcca {
+		min-height: 30.75rem;
+		padding-top: 3.3125rem;
+		padding-bottom: 1.25rem;
+		background: url(../img/bgimg-1.png) center bottom no-repeat;
+	}	
+	label {
+	color:#0B7376;
+	font-weight: bold;
+	font-size: 16px;
+	}
+	#disabledTextInput {
+	background-color: #0B7376;
+	}
+	#disabledTextInput::placeholder {
+	color:white;
+	font-weight: bold;
+	}
+	.borderDiv {
+	border-style: solid;
+	border-width: 1;
+	border-color:silver;
+	padding: 15px;
+	}
+	/* Global Setting End */

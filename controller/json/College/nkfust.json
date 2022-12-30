@@ -1,0 +1,42 @@
+[
+    {
+        "collegeName": "人文社會院",
+        "collegeID": "nkfust_01"
+    },
+    {
+        "collegeName": "工學院",
+        "collegeID": "nkfust_02"
+    },
+    {
+        "collegeName": "水圈學院",
+        "collegeID": "nkfust_03"
+    },
+    {
+        "collegeName": "外語學院",
+        "collegeID": "nkfust_04"
+    },
+    {
+        "collegeName": "海事學院",
+        "collegeID": "nkfust_05"
+    },
+    {
+        "collegeName": "海洋商務學院",
+        "collegeID": "nkfust_06"
+    },
+    {
+        "collegeName": "財務金融學院",
+        "collegeID": "nkfust_07"
+    },
+    {
+        "collegeName": "商業智慧學院",
+        "collegeID": "nkfust_08"
+    },
+    {
+        "collegeName": "電機與資訊學院",
+        "collegeID": "nkfust_09"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nkfust_010"
+    }
+]

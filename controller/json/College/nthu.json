@@ -1,0 +1,46 @@
+[
+  {
+    "collegeName": "人文社會學院",
+    "collegeID": "nthu_01"
+  },
+  {
+    "collegeName": "工學院",
+    "collegeID": "nthu_02"
+  },
+  {
+    "collegeName": "不分院",
+    "collegeID": "nthu_03"
+  },
+  {
+    "collegeName": "生命科學院",
+    "collegeID": "nthu_04"
+  },
+  {
+    "collegeName": "竹師教育學院",
+    "collegeID": "nthu_05"
+  },
+  {
+    "collegeName": "科技管理學院",
+    "collegeID": "nthu_06"
+  },
+  {
+    "collegeName": "原子科學院",
+    "collegeID": "nthu_07"
+  },
+  {
+    "collegeName": "清華學院",
+    "collegeID": "nthu_08"
+  },
+  {
+    "collegeName": "理學院",
+    "collegeID": "nthu_09"
+  },
+  {
+    "collegeName": "電機資訊學院",
+    "collegeID": "nthu_10"
+  },
+  {
+    "collegeName": "藝術學院",
+    "collegeID": "nthu_11"
+  }
+]

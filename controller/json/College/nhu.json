@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "人文學院",
+        "collegeID": "nhu_01"
+    },
+    {
+        "collegeName": "社會科學院",
+        "collegeID": "nhu_02"
+    },
+    {
+        "collegeName": "科技學院",
+        "collegeID": "nhu_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nhu_04"
+    },
+    {
+        "collegeName": "藝術與設計學院",
+        "collegeID": "nhu_05"
+    }
+]

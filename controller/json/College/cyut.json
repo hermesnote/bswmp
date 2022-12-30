@@ -1,0 +1,22 @@
+[
+  {
+    "collegeName": "人文暨社會學院",
+    "collegeID": "cyut_01"
+  },
+  {
+    "collegeName": "理工學院",
+    "collegeID": "cyut_02"
+  },
+  {
+    "collegeName": "設計學院",
+    "collegeID": "cyut_03"
+  },
+  {
+    "collegeName": "資訊學院",
+    "collegeID": "cyut_04"
+  },
+  {
+    "collegeName": "管理學院",
+    "collegeID": "cyut_05"
+  }
+]

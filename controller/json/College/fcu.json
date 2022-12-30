@@ -1,0 +1,46 @@
+[
+    {
+        "collegeName": "人文社會學院",
+        "collegeID": "fcu_01"
+    },
+    {
+        "collegeName": "工學院",
+        "collegeID": "fcu_02"
+    },
+    {
+        "collegeName": "金融學院",
+        "collegeID": "fcu_03"
+    },
+    {
+        "collegeName": "建設學院",
+        "collegeID": "fcu_04"
+    },
+    {
+        "collegeName": "建築專業學院",
+        "collegeID": "fcu_05"
+    },
+    {
+        "collegeName": "商學院",
+        "collegeID": "fcu_06"
+    },
+    {
+        "collegeName": "國際科技與管理學院",
+        "collegeID": "fcu_07"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "fcu_08"
+    },
+    {
+        "collegeName": "通識教育中心",
+        "collegeID": "fcu_09"
+    },
+    {
+        "collegeName": "經營管理學院",
+        "collegeID": "fcu_10"
+    },
+    {
+        "collegeName": "資訊電機學院",
+        "collegeID": "fcu_11"
+    }
+]

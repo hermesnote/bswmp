@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文社會學院",
+        "collegeID": "stust_01"
+    },
+    {
+        "collegeName": "工學院",
+        "collegeID": "stust_02"
+    },
+    {
+        "collegeName": "商管學院",
+        "collegeID": "stust_03"
+    },
+    {
+        "collegeName": "數位設計學院",
+        "collegeID": "stust_04"
+    }
+]

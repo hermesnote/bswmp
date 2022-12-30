@@ -1,0 +1,26 @@
+[
+  {
+    "collegeName": "人文社會學院",
+    "collegeID": "chu_01"
+  },
+  {
+    "collegeName": "工學院",
+    "collegeID": "chu_02"
+  },
+  {
+    "collegeName": "建築與設計學院",
+    "collegeID": "chu_03"
+  },
+  {
+    "collegeName": "資訊學院",
+    "collegeID": "chu_04"
+  },
+  {
+    "collegeName": "管理學院",
+    "collegeID": "chu_05"
+  },
+  {
+    "collegeName": "觀光學院",
+    "collegeID": "chu_06"
+  }
+]

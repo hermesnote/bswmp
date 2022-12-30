@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "工程學院",
+        "collegeID": "ksu_01"
+    },
+    {
+        "collegeName": "民生應用學院",
+        "collegeID": "ksu_02"
+    },
+    {
+        "collegeName": "商業管理學院",
+        "collegeID": "ksu_03"
+    },
+    {
+        "collegeName": "創意媒體學院",
+        "collegeID": "ksu_04"
+    },
+    {
+        "collegeName": "資訊科技學院",
+        "collegeID": "ksu_05"
+    }
+]

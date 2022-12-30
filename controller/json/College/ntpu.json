@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "人文學院",
+        "collegeID": "ntpu_01"
+    },
+    {
+        "collegeName": "公共事務學院",
+        "collegeID": "ntpu_02"
+    },
+    {
+        "collegeName": "法律學院",
+        "collegeID": "ntpu_03"
+    },
+    {
+        "collegeName": "社會科學學院",
+        "collegeID": "ntpu_04"
+    },
+    {
+        "collegeName": "商學院",
+        "collegeID": "ntpu_05"
+    },
+    {
+        "collegeName": "電機資訊學院",
+        "collegeID": "ntpu_06"
+    }
+]

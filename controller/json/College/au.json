@@ -1,0 +1,22 @@
+[
+  {
+    "collegeName": "人文學院",
+    "collegeID": "au_01"
+  },
+  {
+    "collegeName": "財經學院",
+    "collegeID": "au_02"
+  },
+  {
+    "collegeName": "資訊與商業智慧學院",
+    "collegeID": "au_03"
+  },
+  {
+    "collegeName": "管理學院",
+    "collegeID": "au_04"
+  },
+  {
+    "collegeName": "觀光休閒與運動學院",
+    "collegeID": "au_05"
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "nsysu_01"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "nsysu_02"
+    },
+    {
+        "collegeName": "社會科學院",
+        "collegeID": "nsysu_03"
+    },
+    {
+        "collegeName": "海洋科學學院",
+        "collegeID": "nsysu_04"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "nsysu_05"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nsysu_06"
+    }
+]

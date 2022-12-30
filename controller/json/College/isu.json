@@ -1,0 +1,34 @@
+[
+    {
+        "collegeName": "國際學院",
+        "collegeID": "isu_01"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "isu_02"
+    },
+    {
+        "collegeName": "傳播與設計學院",
+        "collegeID": "isu_03"
+    },
+    {
+        "collegeName": "電機資訊學院",
+        "collegeID": "isu_04"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "isu_05"
+    },
+    {
+        "collegeName": "語文學院",
+        "collegeID": "isu_06"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "isu_07"
+    },
+    {
+        "collegeName": "觀光餐旅學院",
+        "collegeID": "isu_08"
+    }
+]

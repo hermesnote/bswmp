@@ -1,0 +1,50 @@
+[
+  {
+    "collegeName": "工學院",
+    "collegeID": "pccu_01"
+  },
+  {
+    "collegeName": "文學院",
+    "collegeID": "pccu_02"
+  },
+  {
+    "collegeName": "外國語文學院",
+    "collegeID": "pccu_03"
+  },
+  {
+    "collegeName": "法學院",
+    "collegeID": "pccu_04"
+  },
+  {
+    "collegeName": "社會科學院",
+    "collegeID": "pccu_05"
+  },
+  {
+    "collegeName": "商學院",
+    "collegeID": "pccu_06"
+  },
+  {
+    "collegeName": "教育學院",
+    "collegeID": "pccu_07"
+  },
+  {
+    "collegeName": "理學院",
+    "collegeID": "pccu_08"
+  },
+  {
+    "collegeName": "新聞暨傳播學院",
+    "collegeID": "pccu_09"
+  },
+  {
+    "collegeName": "農學院",
+    "collegeID": "pccu_10"
+  },
+  {
+    "collegeName": "環境設計學院",
+    "collegeID": "pccu_11"
+  },
+  {
+    "collegeName": "藝術學院",
+    "collegeID": "pccu_12"
+  }
+]

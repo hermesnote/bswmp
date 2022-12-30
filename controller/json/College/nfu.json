@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "工程學院",
+        "collegeID": "nfu_01"
+    },
+    {
+        "collegeName": "文理學院",
+        "collegeID": "nfu_02"
+    },
+    {
+        "collegeName": "電機資訊學院",
+        "collegeID": "nfu_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nfu_04"
+    }
+]

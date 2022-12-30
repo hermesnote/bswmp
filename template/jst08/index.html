@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jQuery XSwitch Plugin Examples</title>
+    <style media="screen">
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+html,  body {
+  height: 100%;
+  overflow: hidden;
+}
+
+#container,  .sections,  .section {
+  position: relative;
+
+  height: 100%;
+}
+
+.section {
+  background-color: #000;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+
+#section0 { background-image: url(https://unsplash.it/1980/1280?image=1076); }
+
+#section1 { background-image: url(https://unsplash.it/1980/1280?image=1075); }
+
+#section2 { background-image: url(https://unsplash.it/1980/1280?image=1074); }
+
+#section3 { background-image: url(https://unsplash.it/1980/1280?image=1073); }
+
+
+.pages {
+  position: fixed;
+  right: 10px;
+  top: 50%;
+  list-style: none;
+}
+
+.pages li {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #fff;
+  margin: 15px 0 0 7px;
+}
+
+.pages li.active {
+  margin-left: 0;
+  width: 14px;
+  height: 14px;
+  border: 4px solid #FFFFFF;
+  background: none;
+}
+</style>
+    </head>
+    <body>
+<div id="container" data-XSwitch>
+      <div class="sections">
+    <div class="section" id="section0"></div>
+    <div class="section" id="section1"></div>
+    <div class="section" id="section2"></div>
+    <div class="section" id="section3"></div>
+  </div>
+    </div>
+<script src="http://code.jquery.com/jquery-2.2.3.min.js"></script> 
+<script src="js/XSwitch.min.js"></script> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+  {
+    "collegeName": "文學院",
+    "collegeID": "nccu_01"
+  },
+  {
+    "collegeName": "外國語文學院",
+    "collegeID": "nccu_02"
+  },
+  {
+    "collegeName": "法學院",
+    "collegeID": "nccu_03"
+  },
+  {
+    "collegeName": "社會科學學院",
+    "collegeID": "nccu_04"
+  },
+  {
+    "collegeName": "商學院",
+    "collegeID": "nccu_05"
+  },
+  {
+    "collegeName": "國際事務學院",
+    "collegeID": "nccu_06"
+  },
+  {
+    "collegeName": "教育學院",
+    "collegeID": "nccu_07"
+  },
+  {
+    "collegeName": "理學院",
+    "collegeID": "nccu_08"
+  },
+  {
+    "collegeName": "傳播學院",
+    "collegeID": "nccu_09"
+  }
+]

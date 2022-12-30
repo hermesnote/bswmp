@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "商業暨管理學院",
+        "collegeID": "kyu_01"
+    },
+    {
+        "collegeName": "規劃與設計學院",
+        "collegeID": "kyu_02"
+    },
+    {
+        "collegeName": "資訊學院",
+        "collegeID": "kyu_03"
+    },
+    {
+        "collegeName": "機電學院",
+        "collegeID": "kyu_04"
+    }
+]

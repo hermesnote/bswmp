@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "工程學院",
+        "collegeID": "ctu_01"
+    },
+    {
+        "collegeName": "生活科技學院",
+        "collegeID": "ctu_02"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "ctu_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ctu_04"
+    }
+]

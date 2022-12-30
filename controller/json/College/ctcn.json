@@ -1,0 +1,18 @@
+[
+  {
+    "collegeName": "民生學院",
+    "collegeID": "ctcn_01"
+  },
+  {
+    "collegeName": "商管學院",
+    "collegeID": "ctcn_02"
+  },
+  {
+    "collegeName": "設計學院",
+    "collegeID": "ctcn_03"
+  },
+  {
+    "collegeName": "護理學院",
+    "collegeID": "ctcn_04"
+  }
+]

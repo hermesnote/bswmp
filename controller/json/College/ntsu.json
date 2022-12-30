@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "運動與健康科學學院",
+        "collegeID": "ntsu_01"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ntsu_02"
+    },
+    {
+        "collegeName": "競技學院",
+        "collegeID": "ntsu_03"
+    },
+    {
+        "collegeName": "體育學院",
+        "collegeID": "ntsu_04"
+    }
+]

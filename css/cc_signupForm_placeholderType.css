@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+	/* placeholder setting */
+	#placeholderType2::placeholder {
+	color:silver;
+	}
+	#placeholderType3::placeholder {
+	color:goldenrod;
+	font-weight: bold;
+	}
+	#inputText1::placeholder {
+	color:silver;
+	}
+	/* placeholder setting End */

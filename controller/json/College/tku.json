@@ -1,0 +1,34 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "tku_01"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "tku_02"
+    },
+    {
+        "collegeName": "外國語文學院",
+        "collegeID": "tku_03"
+    },
+    {
+        "collegeName": "全球發展學院",
+        "collegeID": "tku_04"
+    },
+    {
+        "collegeName": "商管學院",
+        "collegeID": "tku_05"
+    },
+    {
+        "collegeName": "國際研究學院",
+        "collegeID": "tku_06"
+    },
+    {
+        "collegeName": "教育學院",
+        "collegeID": "tku_07"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "tku_08"
+    }
+]

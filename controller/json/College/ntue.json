@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文藝術學院",
+        "collegeID": "ntue_01"
+    },
+    {
+        "collegeName": "不分學院學位學程",
+        "collegeID": "ntue_02"
+    },
+    {
+        "collegeName": "教育學院",
+        "collegeID": "ntue_03"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "ntue_04"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "中護健康學院",
+        "collegeID": "nutc_01"
+    },
+    {
+        "collegeName": "商學院",
+        "collegeID": "nutc_02"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "nutc_03"
+    },
+    {
+        "collegeName": "資訊與流通學院",
+        "collegeID": "nutc_04"
+    },
+    {
+        "collegeName": "語文學院",
+        "collegeID": "nutc_05"
+    }
+]

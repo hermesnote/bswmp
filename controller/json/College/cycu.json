@@ -1,0 +1,30 @@
+[
+  {
+    "collegeName": "人文與教育學院",
+    "collegeID": "cycu_01"
+  },
+  {
+    "collegeName": "工學院",
+    "collegeID": "cycu_02"
+  },
+  {
+    "collegeName": "法學院",
+    "collegeID": "cycu_03"
+  },
+  {
+    "collegeName": "商學院",
+    "collegeID": "cycu_04"
+  },
+  {
+    "collegeName": "理學院",
+    "collegeID": "cycu_05"
+  },
+  {
+    "collegeName": "設計學院",
+    "collegeID": "cycu_06"
+  },
+  {
+    "collegeName": "電機資訊學院",
+    "collegeID": "cycu_07"
+  }
+]

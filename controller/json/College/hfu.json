@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "工程暨管理學院",
+        "collegeID": "hfu_01"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "hfu_02"
+    },
+    {
+        "collegeName": "佛教學院",
+        "collegeID": "hfu_03"
+    },
+    {
+        "collegeName": "藝術設計學院",
+        "collegeID": "hfu_04"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "時尚學院",
+        "collegeID": "ltu_01"
+    },
+    {
+        "collegeName": "財經學院",
+        "collegeID": "ltu_02"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "ltu_03"
+    },
+    {
+        "collegeName": "資訊學院",
+        "collegeID": "ltu_04"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ltu_05"
+    }
+]

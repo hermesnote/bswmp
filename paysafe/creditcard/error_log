@@ -1,0 +1,17 @@
+[06-Jan-2020 16:40:44 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[06-Jan-2020 16:40:44 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 26
+[06-Jan-2020 16:40:44 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 27
+[06-Jan-2020 16:40:44 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 28
+[06-Jan-2020 16:40:44 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 29
+[06-Jan-2020 17:22:49 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[06-Jan-2020 17:22:49 Asia/Taipei] PHP Notice:  Undefined index: vCode in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 10
+[06-Jan-2020 17:22:49 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 26
+[06-Jan-2020 17:22:49 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 27
+[06-Jan-2020 17:22:49 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 28
+[06-Jan-2020 17:22:49 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 29
+[06-Jan-2020 17:22:50 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[06-Jan-2020 17:22:50 Asia/Taipei] PHP Notice:  Undefined index: vCode in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 10
+[06-Jan-2020 17:22:50 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 26
+[06-Jan-2020 17:22:50 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 27
+[06-Jan-2020 17:22:50 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 28
+[06-Jan-2020 17:22:50 Asia/Taipei] PHP Notice:  Undefined variable: sqlFETCHcustomer in /home2/hermesn1/wmpcca/bswmp/form/paysafe/creditcard/send_op_Ajax.php on line 29

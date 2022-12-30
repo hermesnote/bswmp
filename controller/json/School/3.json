@@ -1,0 +1,214 @@
+[
+    {
+        "schoolName": "一貫道天皇學院",
+        "schoolID": "iktc"
+    },
+    {
+        "schoolName": "大仁科技大學",
+        "schoolID": "tajen"
+    },
+    {
+        "schoolName": "大同技術學院",
+        "schoolID": "ttc"
+    },
+    {
+        "schoolName": "中信金融管理學院",
+        "schoolID": "ctbc"
+    },
+    {
+        "schoolName": "中華醫事科技大學",
+        "schoolID": "hwai"
+    },
+    {
+        "schoolName": "文藻外語大學",
+        "schoolID": "wzu"
+    },
+    {
+        "schoolName": "台南應用科技大學",
+        "schoolID": "tut"
+    },
+    {
+        "schoolName": "台灣首府大學",
+        "schoolID": "tsu"
+    },
+    {
+        "schoolName": "正修科技大學",
+        "schoolID": "csu"
+    },
+    {
+        "schoolName": "吳鳳科技大學",
+        "schoolID": "wfu"
+    },
+    {
+        "schoolName": "育英醫護管理專科學校",
+        "schoolID": "yuhing"
+    },
+    {
+        "schoolName": "和春技術學院",
+        "schoolID": "fotech"
+    },
+    {
+        "schoolName": "東方設計大學",
+        "schoolID": "tf"
+    },
+    {
+        "schoolName": "長榮大學",
+        "schoolID": "cjcu"
+    },
+    {
+        "schoolName": "南華大學",
+        "schoolID": "nhu"
+    },
+    {
+        "schoolName": "南榮科技大學",
+        "schoolID": "nju"
+    },
+    {
+        "schoolName": "南臺科技大學",
+        "schoolID": "stust"
+    },
+    {
+        "schoolName": "美和科技大學",
+        "schoolID": "meiho"
+    },
+    {
+        "schoolName": "高美醫護管理專科學校",
+        "schoolID": "khc"
+    },
+    {
+        "schoolName": "高苑科技大學",
+        "schoolID": "kyu"
+    },
+    {
+        "schoolName": "高雄市立空中大學",
+        "schoolID": "ouk"
+    },
+    {
+        "schoolName": "高雄醫學大學",
+        "schoolID": "kmu"
+    },
+    {
+        "schoolName": "真理大學(台南校區)",
+        "schoolID": "autainan"
+    },
+    {
+        "schoolName": "國立中山大學",
+        "schoolID": "nsysu"
+    },
+    {
+        "schoolName": "國立中正大學",
+        "schoolID": "ccu"
+    },
+    {
+        "schoolName": "國立成功大學",
+        "schoolID": "ncku"
+    },
+    {
+        "schoolName": "國立金門大學",
+        "schoolID": "nqu"
+    },
+    {
+        "schoolName": "國立屏東大學",
+        "schoolID": "nptu"
+    },
+    {
+        "schoolName": "國立屏東科技大學",
+        "schoolID": "npust"
+    },
+    {
+        "schoolName": "國立高雄大學",
+        "schoolID": "nuk"
+    },
+    {
+        "schoolName": "國立高雄師範大學",
+        "schoolID": "nknu"
+    },
+    {
+        "schoolName": "國立高雄科技大學",
+        "schoolID": "nkfust"
+    },
+    {
+        "schoolName": "國立高雄餐旅大學",
+        "schoolID": "nkuht"
+    },
+    {
+        "schoolName": "國立嘉義大學",
+        "schoolID": "ncyu"
+    },
+    {
+        "schoolName": "國立臺東大學",
+        "schoolID": "nttu"
+    },
+    {
+        "schoolName": "國立臺東專科學校",
+        "schoolID": "ntc"
+    },
+    {
+        "schoolName": "國立臺南大學",
+        "schoolID": "nutn"
+    },
+    {
+        "schoolName": "國立臺南藝術大學",
+        "schoolID": "tnnua"
+    },
+    {
+        "schoolName": "國立臺南護理專科學校",
+        "schoolID": "ntin"
+    },
+    {
+        "schoolName": "國立澎湖科技大學",
+        "schoolID": "npu"
+    },
+    {
+        "schoolName": "崇仁醫護管理專科學校",
+        "schoolID": "cjc"
+    },
+    {
+        "schoolName": "崑山科技大學",
+        "schoolID": "ksu"
+    },
+    {
+        "schoolName": "康寧大學(台南校區)",
+        "schoolID": "ukntainan"
+    },
+    {
+        "schoolName": "敏惠醫護管理專科學校",
+        "schoolID": "mhchcm"
+    },
+    {
+        "schoolName": "慈惠醫護管理專科學校",
+        "schoolID": "tzuhui"
+    },
+    {
+        "schoolName": "義守大學",
+        "schoolID": "isu"
+    },
+    {
+        "schoolName": "嘉南藥理大學",
+        "schoolID": "cnu"
+    },
+    {
+        "schoolName": "輔英科技大學",
+        "schoolID": "fy"
+    },
+    {
+        "schoolName": "遠東科技大學",
+        "schoolID": "feu"
+    },
+    {
+        "schoolName": "實踐大學(高雄校區)",
+        "schoolID": "uscKaohsiung"
+    },
+    {
+        "schoolName": "稻江科技暨管理學院",
+        "schoolID": "toko"
+    },
+    {
+        "schoolName": "樹人醫護管理專科學校",
+        "schoolID": "szmc"
+    },
+    {
+        "schoolName": "樹德科技大學",
+        "schoolID": "stu"
+    }
+]

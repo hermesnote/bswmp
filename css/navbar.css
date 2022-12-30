@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+	.navbar {
+	width:auto;
+	padding: 2.1875rem 3.125vw;
+	background: white;
+	z-index: 3;
+	top: 0;
+	left: 0;
+	transition: all .25s ease-in-out;
+	}
+	.fa {
+	padding: 12px;
+	font-size: 16px;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	text-decoration:none;
+	border-radius: 50%;
+	}
+
+	.fa:hover {
+	opacity: 0.9;
+	text-decoration:none;
+	}
+
+	.fa-plus-circle {
+	font-size: 1.2em;
+	color: white;
+	padding: 5px 0px 5px 0px;
+	}		
+	
+	.fa-pencil, .fa-user-circle-o, .fa-user-plus, .fa-users, .fa-file-o {
+	font-size: 1.2em;
+	color: white;
+	padding: 5px 0px 5px 0px;
+	}	
+
+	.fa-facebook {
+	background: silver;
+	color: #3B5998;
+	}
+	.fa-facebook:hover  {
+	background: #3B5998;
+	color: white;
+	}
+
+	.fa-comment {
+	background: silver;
+	color: green;
+	}
+	.fa-comment:hover {
+	color:white;
+	background:green;
+	}
+
+	.fa-file-text-o {
+	background:silver;
+	color: #0B7376;
+	}
+	.fa-file-text-o:hover {
+	background: #0B7376;
+	color:white;
+	}
+
+	.fa-calendar {
+	background: silver;
+	color: dodgerblue;
+	}
+	.fa-calendar:hover {
+	background: dodgerblue;
+	color: white;
+	}
+
+	.fa-black-tie {
+	background: silver;
+	color: black;
+	}
+	.fa-black-tie:hover {
+	background: black;
+	color: white;
+	}
+		
+	.nav-link,.dropdown-item {
+	color: darkgray;
+	font-size:20px;
+	font-weight: bold;
+	font-family: 'Microsoft JhengHei';
+	}
+
+	.nav-item:hover{
+		color: #0B7376;
+	}
+	.nav-link {
+		color: #0B7376;
+	}
+	.nav-item.active {
+		color: #0B7376;
+	}
+	.nav-link {
+		color: #0B7376;
+	}
+	.dropdown-item:hover {
+		color: #0B7376;
+	}
+	.dropdown-item:active {
+		background-color: white;
+	}
+	.dropdown-item.active {
+		color: #0B7376;
+	}
+
+	.navbar-brand {
+		max-height: 100%;
+		width: auto;
+		display: block;
+	}
+	.display-1 {
+		color: #0B7376;
+	}
+	.display-3 {
+		color: #0B7376;
+	}
+	.dropdown-item {
+		font-size:18px;
+	}
+	.border-row {
+		display: inline-block;
+	}
+	.text-underline-1 {
+	background: linear-gradient(left, rgba(121, 155, 208, 0.7) 0%, rgba(0, 161, 153, 0.7) 33.33%, rgba(129, 190, 57, 0.7) 100%);
+	background: -webkit-linear-gradient(left, rgba(121, 155, 208, 0.7) 0%, rgba(0, 161, 153, 0.7) 33.33%, rgba(129, 190, 57, 0.7) 100%);
+	background: -moz-linear-gradient(left, rgba(121, 155, 208, 0.7) 0%, rgba(0, 161, 153, 0.7) 33.33%, rgba(129, 190, 57, 0.7) 100%);
+	/* display: inline-block; */
+	height: .25rem;
+	width: 100%;
+	position: relative;
+	 top: -.675rem; 
+	}

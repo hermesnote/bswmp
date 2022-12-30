@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "人文學院",
+        "collegeID": "mdu_01"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "mdu_02"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "mdu_03"
+    },
+    {
+        "collegeName": "餐旅觀光學院",
+        "collegeID": "mdu_04"
+    },
+    {
+        "collegeName": "應用科學院",
+        "collegeID": "mdu_05"
+    }
+]

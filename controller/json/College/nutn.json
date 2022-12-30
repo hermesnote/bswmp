@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "人文與社會學院",
+        "collegeID": "nutn_01"
+    },
+    {
+        "collegeName": "教育學院",
+        "collegeID": "nutn_02"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "nutn_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nutn_04"
+    },
+    {
+        "collegeName": "環境與生態學院",
+        "collegeID": "nutn_05"
+    },
+    {
+        "collegeName": "藝術學院",
+        "collegeID": "nutn_06"
+    }
+]

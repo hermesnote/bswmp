@@ -1,0 +1,14 @@
+[
+    {
+        "collegeName": "工學群",
+        "collegeID": "ttc_01"
+    },
+    {
+        "collegeName": "商學群",
+        "collegeID": "ttc_02"
+    },
+    {
+        "collegeName": "理農學群",
+        "collegeID": "ttc_03"
+    }
+]

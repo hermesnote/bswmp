@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "民生創新學院",
+        "collegeID": "hk_01"
+    },
+    {
+        "collegeName": "智慧科技學院",
+        "collegeID": "hk_02"
+    },
+    {
+        "collegeName": "醫療健康學院",
+        "collegeID": "hk_03"
+    },
+    {
+        "collegeName": "護理學院",
+        "collegeID": "hk_04"
+    }
+]

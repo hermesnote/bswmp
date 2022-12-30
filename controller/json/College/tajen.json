@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文暨社會學院",
+        "collegeID": "tajen_01"
+    },
+    {
+        "collegeName": "休閒暨餐旅學院",
+        "collegeID": "tajen_02"
+    },
+    {
+        "collegeName": "智慧生活暨管理學院",
+        "collegeID": "tajen_03"
+    },
+    {
+        "collegeName": "藥學暨健康學院",
+        "collegeID": "tajen_04"
+    }
+]

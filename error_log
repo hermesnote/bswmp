@@ -1,0 +1,95 @@
+[23-Feb-2019 15:37:48 Asia/Taipei] PHP Warning:  require_once(../vender/dbtools.inc.php): failed to open stream: No such file or directory in /home2/hermesn1/wmpcca/bswmp/form/test.php on line 1
+[23-Feb-2019 15:37:48 Asia/Taipei] PHP Fatal error:  require_once(): Failed opening required '../vender/dbtools.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/hermesn1/wmpcca/bswmp/form/test.php on line 1
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 17
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 82
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Notice:  Undefined variable: projectName in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 96
+[27-Jun-2019 17:16:33 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 100
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 17
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 82
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Notice:  Undefined variable: projectName in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 96
+[27-Jun-2019 17:16:48 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 100
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 17
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 82
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Notice:  Undefined variable: projectName in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 96
+[27-Jun-2019 17:17:16 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 100
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 17
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 82
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: projectName in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 96
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 100
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 17
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 82
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: projectName in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 96
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 100
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 17
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 82
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: projectName in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 96
+[27-Jun-2019 17:17:18 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 100
+[27-Jun-2019 17:18:03 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:18:03 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:18:03 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:18:03 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 71
+[27-Jun-2019 17:18:03 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 82
+[27-Jun-2019 17:18:03 Asia/Taipei] PHP Notice:  Undefined variable: projectName in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 96
+[27-Jun-2019 17:18:03 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 100
+[27-Jun-2019 17:19:20 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:19:20 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 72
+[27-Jun-2019 17:19:20 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 72
+[27-Jun-2019 17:19:20 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 72
+[27-Jun-2019 17:19:20 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 83
+[27-Jun-2019 17:19:20 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 101
+[27-Jun-2019 17:19:30 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:19:30 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 72
+[27-Jun-2019 17:19:30 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 72
+[27-Jun-2019 17:19:30 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 72
+[27-Jun-2019 17:19:30 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 83
+[27-Jun-2019 17:19:30 Asia/Taipei] PHP Notice:  Undefined variable: MN in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 101
+[27-Jun-2019 17:20:09 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:20:09 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateY in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 73
+[27-Jun-2019 17:20:09 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateM in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 73
+[27-Jun-2019 17:20:09 Asia/Taipei] PHP Notice:  Undefined variable: PaymentDateD in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 73
+[27-Jun-2019 17:20:09 Asia/Taipei] PHP Notice:  Undefined variable: receiptNO in /home2/hermesn1/wmpcca/bswmp/form/receipt_CG1928365755.php on line 84
+[27-Jun-2019 17:23:34 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:24:40 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:24:40 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:26:01 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:26:38 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:28:35 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:31:33 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[27-Jun-2019 17:32:03 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[28-Jun-2019 11:35:13 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[28-Jun-2019 15:19:25 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[28-Jun-2019 15:19:26 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[09-Jul-2019 14:02:26 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[14-Jul-2019 15:15:05 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[14-Jul-2019 15:15:05 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[14-Jul-2019 15:15:05 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[14-Jul-2019 15:15:06 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[15-Jul-2019 14:27:50 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[15-Jul-2019 14:27:51 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[23-Jul-2019 13:55:03 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[23-Jul-2019 13:55:04 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7
+[23-Oct-2019 15:17:21 Asia/Taipei] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/hermesn1/wmpcca/bswmp/form/vender/dbtools.inc.php on line 7

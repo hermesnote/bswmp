@@ -1,0 +1,18 @@
+[
+  {
+    "collegeName": "人文社會學院",
+    "collegeID": "oit_04"
+  },
+  {
+    "collegeName": "工程學群",
+    "collegeID": "oit_01"
+  },
+  {
+    "collegeName": "電通學群",
+    "collegeID": "oit_02"
+  },
+  {
+    "collegeName": "管理暨健康學群",
+    "collegeID": "oit_03"
+  }
+]

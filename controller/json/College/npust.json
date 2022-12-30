@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "人文暨社會科學院",
+        "collegeID": "npust_01"
+    },
+    {
+        "collegeName": "工學院",
+        "collegeID": "npust_02"
+    },
+    {
+        "collegeName": "國際學院",
+        "collegeID": "npust_03"
+    },
+    {
+        "collegeName": "農學院",
+        "collegeID": "npust_04"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "npust_05"
+    },
+    {
+        "collegeName": "獸醫學院",
+        "collegeID": "npust_06"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "collegeName": "人文暨社會科學院",
+        "collegeID": "tmu_01"
+    },
+    {
+        "collegeName": "口腔醫學院",
+        "collegeID": "tmu_02"
+    },
+    {
+        "collegeName": "公共衛生學院",
+        "collegeID": "tmu_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "tmu_04"
+    },
+    {
+        "collegeName": "營養學院",
+        "collegeID": "tmu_05"
+    },
+    {
+        "collegeName": "醫學工程學院",
+        "collegeID": "tmu_06"
+    },
+    {
+        "collegeName": "醫學科技學院",
+        "collegeID": "tmu_07"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "tmu_08"
+    },
+    {
+        "collegeName": "藥學院",
+        "collegeID": "tmu_09"
+    },
+    {
+        "collegeName": "護理學院",
+        "collegeID": "ymu_10"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "人文與社會學院",
+        "collegeID": "nuu_01"
+    },
+    {
+        "collegeName": "客家研究學院",
+        "collegeID": "nuu_02"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "nuu_03"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "nuu_04"
+    },
+    {
+        "collegeName": "電機資訊學院",
+        "collegeID": "nuu_05"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nuu_06"
+    }
+]

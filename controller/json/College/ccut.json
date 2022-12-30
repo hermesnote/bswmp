@@ -1,0 +1,14 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "ccut_01"
+    },
+    {
+        "collegeName": "健康學院",
+        "collegeID": "ccut_02"
+    },
+    {
+        "collegeName": "觀光與管理學院",
+        "collegeID": "ccut_03"
+    }
+]

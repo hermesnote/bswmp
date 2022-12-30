@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "文學院",
+        "collegeID": "nknu_01"
+    },
+    {
+        "collegeName": "科技學院",
+        "collegeID": "nknu_02"
+    },
+    {
+        "collegeName": "教育學院",
+        "collegeID": "nknu_03"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "nknu_04"
+    },
+    {
+        "collegeName": "藝術學院",
+        "collegeID": "nknu_05"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "文博學院",
+        "collegeID": "tnnua_01"
+    },
+    {
+        "collegeName": "音像藝術學院",
+        "collegeID": "tnnua_02"
+    },
+    {
+        "collegeName": "音樂學院",
+        "collegeID": "tnnua_03"
+    },
+    {
+        "collegeName": "視覺藝術學院",
+        "collegeID": "tnnua_04"
+    }
+]

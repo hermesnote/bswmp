@@ -1,0 +1,18 @@
+[
+  {
+    "collegeName": "人文及管理學院",
+    "collegeID": "niu_01"
+  },
+  {
+    "collegeName": "工學院",
+    "collegeID": "niu_02"
+  },
+  {
+    "collegeName": "生物資源學院",
+    "collegeID": "niu_03"
+  },
+  {
+    "collegeName": "電機資訊學院",
+    "collegeID": "niu_04"
+  }
+]

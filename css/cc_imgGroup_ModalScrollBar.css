@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+        .modal-body{
+            max-height: 500px;
+            overflow: auto;
+        }
+        .modal-title{
+            font-family: Microsoft JhengHei;
+            font-weight: bold;
+            line-height: 1.5;
+            text-align: left;
+            letter-spacing: 0.1em;
+        }
+        .modal-content{
+            font-family: Microsoft JhengHei;
+            font-weight: bold;
+            line-height: 1.5;
+            text-align: left;
+            letter-spacing: 0.1em;
+        }
+        .modal-body p {
+            font-family: Microsoft JhengHei;
+            text-align: left;
+            font-size: 18px;
+            text-indent: 36px;
+        }
+        .modal-body h3 {
+            font-weight: 800;
+            font-family: Microsoft JhengHei;
+            font-size: 20px;
+        }

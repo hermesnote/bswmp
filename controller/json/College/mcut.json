@@ -1,0 +1,30 @@
+[
+  {
+    "collegeName": "工程學院",
+    "collegeID": "mcut_01"
+  },
+  {
+    "collegeName": "工學院",
+    "collegeID": "mcut_02"
+  },
+  {
+    "collegeName": "不分學院",
+    "collegeID": "mcut_03"
+  },
+  {
+    "collegeName": "服務產業學院",
+    "collegeID": "mcut_04"
+  },
+  {
+    "collegeName": "管理暨設計學院",
+    "collegeID": "mcut_05"
+  },
+  {
+    "collegeName": "管理學院",
+    "collegeID": "mcut_06"
+  },
+  {
+    "collegeName": "環境資源學院",
+    "collegeID": "mcut_07"
+  }
+]

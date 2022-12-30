@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+.dummy {
+margin-top: 100%;
+}
+.block{
+position:absolute;
+top: 20px;
+right: 20px;
+bottom: 20px;
+left: 20px;
+background: #222;
+border-radius: 15%;
+}
+.block {
+transition: 0.5s ease;
+}
+
+.block:hover{
+-webkit-transform: rotateZ(-15deg);
+-ms-transform: rotateZ(-15deg);
+transform: rotateZ(-15deg);
+transition: 0.5s ease;
+}
+
+.bg1{
+background: url("../img/cc_img01.png") center center;
+background-size: cover;
+}
+.bg2{
+background: url("../img/cc_img02.png") center center;
+background-size: cover;
+}
+.bg3{
+background: url("../img/cc_img03.png") center center;
+background-size: cover;
+}
+.bg4{
+background: url("../img/cc_img04.png") center center;
+background-size: cover;
+}
+.bg5{
+background: url("../img/cc_img05.png") center center;
+background-size: cover;
+}
+.bg6{
+background: url("../img/cc_img06.png") center center;
+background-size: cover;
+}
+
+.imgGroupClick{
+	cursor: pointer;
+}

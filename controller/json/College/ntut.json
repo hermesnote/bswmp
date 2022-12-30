@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "人文與社會科學學院",
+        "collegeID": "ntut_01"
+    },
+    {
+        "collegeName": "工程學院",
+        "collegeID": "ntut_02"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "ntut_03"
+    },
+    {
+        "collegeName": "電資學院",
+        "collegeID": "ntut_04"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ntut_05"
+    },
+    {
+        "collegeName": "機電學院",
+        "collegeID": "ntut_06"
+    }
+]

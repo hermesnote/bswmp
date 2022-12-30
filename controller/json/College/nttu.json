@@ -1,0 +1,14 @@
+[
+    {
+        "collegeName": "人文學院",
+        "collegeID": "nttu_01"
+    },
+    {
+        "collegeName": "師範學院",
+        "collegeID": "nttu_02"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "nttu_03"
+    }
+]

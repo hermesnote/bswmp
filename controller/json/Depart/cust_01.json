@@ -1,0 +1,20 @@
+[
+    {
+	    "departName": "土木工程系"
+    },
+    {
+	    "departName": "建築系"
+    },
+	{
+        "departName": "遊戲系統創新設計系" 
+	},
+	{
+        "departName": "電子工程系" 
+	},
+	{
+        "departName": "電機工程系" 
+	},
+	{
+        "departName": "機械工程系" 
+	}
+]

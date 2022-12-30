@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文社會學院",
+        "collegeID": "nqu_01"
+    },
+    {
+        "collegeName": "健康護理學院",
+        "collegeID": "nqu_02"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "nqu_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nqu_04"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "健康學院",
+        "collegeID": "twu_01"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "twu_02"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "twu_03"
+    },
+    {
+        "collegeName": "觀光學院",
+        "collegeID": "twu_04"
+    }
+]

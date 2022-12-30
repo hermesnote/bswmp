@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文社會學院",
+        "collegeID": "tcu_01"
+    },
+    {
+        "collegeName": "生命科學院",
+        "collegeID": "tcu_02"
+    },
+    {
+        "collegeName": "教育傳播學院",
+        "collegeID": "tcu_03"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "tcu_04"
+    }
+]

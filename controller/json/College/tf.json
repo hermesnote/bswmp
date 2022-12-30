@@ -1,0 +1,14 @@
+[
+    {
+        "collegeName": "民生設計學院",
+        "collegeID": "tf_01"
+    },
+    {
+        "collegeName": "應用設計學院",
+        "collegeID": "tf_02"
+    },
+    {
+        "collegeName": "藝術設計學院",
+        "collegeID": "tf_03"
+    }
+]

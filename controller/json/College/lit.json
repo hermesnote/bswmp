@@ -1,0 +1,14 @@
+[
+    {
+        "collegeName": "工程學群",
+        "collegeID": "lit_01"
+    },
+    {
+        "collegeName": "民生學群",
+        "collegeID": "lit_02"
+    },
+    {
+        "collegeName": "管理學群",
+        "collegeID": "lit_03"
+    }
+]

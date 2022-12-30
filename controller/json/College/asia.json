@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "人文社會學院",
+        "collegeID": "asia_01"
+    },
+    {
+        "collegeName": "創意設計學院",
+        "collegeID": "asia_02"
+    },
+    {
+        "collegeName": "資訊電機學院",
+        "collegeID": "asia_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "asia_04"
+    },
+    {
+        "collegeName": "醫學暨健康學院",
+        "collegeID": "asia_05"
+    }
+]

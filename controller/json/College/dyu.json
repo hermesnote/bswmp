@@ -1,0 +1,30 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "dyu_01"
+    },
+    {
+        "collegeName": "外語學院",
+        "collegeID": "dyu_02"
+    },
+    {
+        "collegeName": "生物科技暨資源學院",
+        "collegeID": "dyu_03"
+    },
+    {
+        "collegeName": "設計暨藝術學院",
+        "collegeID": "dyu_04"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "dyu_05"
+    },
+    {
+        "collegeName": "護理暨健康學院",
+        "collegeID": "dyu_06"
+    },
+    {
+        "collegeName": "觀光餐旅學院",
+        "collegeID": "dyu_07"
+    }
+]

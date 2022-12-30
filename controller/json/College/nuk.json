@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "人文社會科學院",
+        "collegeID": "nuk_01"
+    },
+    {
+        "collegeName": "工學院",
+        "collegeID": "nuk_02"
+    },
+    {
+        "collegeName": "法學院",
+        "collegeID": "nuk_03"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "nuk_04"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nuk_05"
+    }
+]

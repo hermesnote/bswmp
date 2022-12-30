@@ -1,0 +1,26 @@
+[
+  {
+    "collegeName": "人文社會學院",
+    "collegeID": "scu_01"
+  },
+  {
+    "collegeName": "外國語文學院",
+    "collegeID": "scu_02"
+  },
+  {
+    "collegeName": "巨量資料管理學院",
+    "collegeID": "scu_03"
+  },
+  {
+    "collegeName": "法學院",
+    "collegeID": "scu_04"
+  },
+  {
+    "collegeName": "商學院",
+    "collegeID": "scu_05"
+  },
+  {
+    "collegeName": "理學院",
+    "collegeID": "scu_06"
+  }
+]

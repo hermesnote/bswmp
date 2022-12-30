@@ -1,0 +1,38 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "nchu_01"
+    },
+    {
+        "collegeName": "不分院",
+        "collegeID": "nchu_02"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "nchu_03"
+    },
+    {
+        "collegeName": "生命科學院",
+        "collegeID": "nchu_04"
+    },
+    {
+        "collegeName": "法政學院",
+        "collegeID": "nchu_05"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "nchu_06"
+    },
+    {
+        "collegeName": "農業暨自然資源學院",
+        "collegeID": "nchu_07"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nchu_08"
+    },
+    {
+        "collegeName": "獸醫學院",
+        "collegeID": "nchu_09"
+    }
+]

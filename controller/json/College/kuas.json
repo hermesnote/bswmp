@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文社會學院",
+        "collegeID": "kuas_01"
+    },
+    {
+        "collegeName": "工學院",
+        "collegeID": "kuas_02"
+    },
+    {
+        "collegeName": "電資學院",
+        "collegeID": "kuas_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "kuas_04"
+    }
+]

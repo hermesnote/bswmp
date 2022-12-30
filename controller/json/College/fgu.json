@@ -1,0 +1,22 @@
+[
+  {
+    "collegeName": "人文學院",
+    "collegeID": "fgu_01"
+  },
+  {
+    "collegeName": "佛教學院",
+    "collegeID": "fgu_02"
+  },
+  {
+    "collegeName": "社會科學暨管理學院",
+    "collegeID": "fgu_03"
+  },
+  {
+    "collegeName": "創意與科技學院",
+    "collegeID": "fgu_04"
+  },
+  {
+    "collegeName": "樂活產業學院",
+    "collegeID": "fgu_05"
+  }
+]

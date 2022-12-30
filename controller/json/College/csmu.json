@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "口腔醫學院",
+        "collegeID": "csmu_01"
+    },
+    {
+        "collegeName": "健康管理學院",
+        "collegeID": "csmu_02"
+    },
+    {
+        "collegeName": "醫學科技學院",
+        "collegeID": "csmu_03"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "csmu_04"
+    }
+]

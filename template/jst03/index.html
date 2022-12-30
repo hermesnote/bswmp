@@ -1,0 +1,295 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>jQuery AppLikeOnePage.js Plugin Demo</title>
+
+	<style>
+
+* {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+
+
+/* 
+
+			set overflow-y property to prevent scroll bar mess up the whole layout
+
+		*/
+
+
+
+body {
+
+  margin: 0;
+
+  padding: 0;
+
+  overflow-y: hidden;
+
+  color: #fff;
+
+}
+
+
+
+li { list-style-type: none; }
+
+
+
+/* styled just for clear visual division of each areas */
+
+
+
+.op-section { background-color: #00a; }
+
+
+
+.second { background-color: #55a; }
+
+
+
+.third { background-color: #99a; }
+
+
+
+.fourth { background-color: #aad; }
+
+
+
+.fifth { background-color: #aae; }
+
+
+
+.last { background-color: #aaf; }
+
+
+
+#radioWrap {
+
+  width: 20px;
+
+  height: 180px;
+
+  position: absolute;
+
+  right: 5%;
+
+  top: 50%;
+
+  margin-top: -90px;
+
+}
+
+
+
+#radio {
+
+  width: 100%;
+
+  height: 100%;
+
+  overflow: hidden;
+
+}
+
+
+
+#radio li {
+
+  width: 20px;
+
+  height: 20px;
+
+  background-color: rgba(255,255,255, 0.5);
+
+  text-indent: -10000px;
+
+  border-radius: 50%;
+
+  margin-top: 12px;
+
+  cursor: pointer;
+
+}
+
+
+
+#radio li:first-child { margin-top: 0; }
+
+
+
+/* 
+
+			set position to absolute(essential).
+
+			use margin to adjust gaps between LIs because ApplikeOnePage.js uses .outerHeight(true) method
+
+			to measure the interval gap to which each radio buttons are placed.
+
+		*/
+
+
+
+#radioOn {
+
+  width: 20px;
+
+  height: 20px;
+
+  margin-bottom: 12px;
+
+  position: absolute;
+
+  top: 0;
+
+  left: 0;
+
+  background-color: #fff;
+
+  border-radius: 50%;
+
+}
+
+</style>
+
+	<script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+
+	<script src="js/onepage.js"></script>
+
+	<script>
+
+		$(document).ready(function(){
+
+			startOnePage({
+
+				frame: "#view",
+
+				container: "#frame",
+
+				sections: ".op-section",
+
+				radio: "#radio",
+
+				radioOn: "#radioOn",
+
+				speed: 500,
+
+				easing: "swing"
+
+			});
+
+		});
+
+	</script>
+
+	</head>
+
+	<body>
+
+<div id="view">
+
+      <div id="frame">
+
+    <div class="op-section"><h1>jQuery AppLikeOnePage.js Plugin Demo</h1>
+
+    <div class="jquery-script-ads"><script type="text/javascript"><!--
+
+google_ad_client = "ca-pub-2783044520727903";
+
+/* jQuery_demo */
+
+google_ad_slot = "2780937993";
+
+google_ad_width = 728;
+
+google_ad_height = 90;
+
+//-->
+
+</script>
+
+<script type="text/javascript"
+
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script></div>
+
+        </div>
+
+    <div class="op-section second">section1</div>
+
+    <div class="op-section third">section2</div>
+
+    <div class="op-section fourth">section3</div>
+
+    <div class="op-section fifth">section4</div>
+
+    <div class="op-section last">section5</div>
+
+  </div>
+
+    </div>
+
+<div id="radioWrap">
+
+      <ul id="radio">
+
+    <li>section0</li>
+
+    <li>section1</li>
+
+    <li>section2</li>
+
+    <li>section3</li>
+
+    <li>section4</li>
+
+    <li>section5</li>
+
+  </ul>
+
+      <span id="radioOn"></span> </div><script type="text/javascript">
+
+
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+
+  _gaq.push(['_trackPageview']);
+
+
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+[
+    {
+        "collegeName": "工程學院",
+        "collegeID": "tpcu_01"
+    },
+    {
+        "collegeName": "民生學院",
+        "collegeID": "tpcu_02"
+    },
+    {
+        "collegeName": "商管學院",
+        "collegeID": "tpcu_03"
+    }
+]

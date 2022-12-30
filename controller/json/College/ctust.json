@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文暨通識教育學院",
+        "collegeID": "ctust_01"
+    },
+    {
+        "collegeName": "健康科學院",
+        "collegeID": "ctust_02"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ctust_03"
+    },
+    {
+        "collegeName": "護理學院",
+        "collegeID": "ctust_04"
+    }
+]

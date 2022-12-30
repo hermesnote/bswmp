@@ -1,0 +1,38 @@
+[
+  {
+    "collegeName": "工學院",
+    "collegeID": "ncu_01"
+  },
+  {
+    "collegeName": "太空及遙測研究中心",
+    "collegeID": "ncu_02"
+  },
+  {
+    "collegeName": "文學院",
+    "collegeID": "ncu_03"
+  },
+  {
+    "collegeName": "生醫理工學院",
+    "collegeID": "ncu_04"
+  },
+  {
+    "collegeName": "地球科學學院",
+    "collegeID": "ncu_05"
+  },
+  {
+    "collegeName": "客家學院",
+    "collegeID": "ncu_06"
+  },
+  {
+    "collegeName": "理學院",
+    "collegeID": "ncu_07"
+  },
+  {
+    "collegeName": "資訊電機學院",
+    "collegeID": "ncu_08"
+  },
+  {
+    "collegeName": "管理學院",
+    "collegeID": "ncu_09"
+  }
+]

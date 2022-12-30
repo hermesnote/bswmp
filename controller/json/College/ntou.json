@@ -1,0 +1,26 @@
+[
+    {
+        "collegeName": "人文社會科學院",
+        "collegeID": "ntou_01"
+    },
+    {
+        "collegeName": "工學院",
+        "collegeID": "ntou_02"
+    },
+    {
+        "collegeName": "生命科學院",
+        "collegeID": "ntou_03"
+    },
+    {
+        "collegeName": "海洋法律與政策學院",
+        "collegeID": "ntou_04"
+    },
+    {
+        "collegeName": "海運暨管理學院",
+        "collegeID": "ntou_05"
+    },
+    {
+        "collegeName": "電機資訊學院",
+        "collegeID": "ntou_06"
+    }
+]

@@ -1,0 +1,425 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>jQuery switchPage.js Plugin Demo</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+  <style type="text/css">
+
+h1, body, html {
+
+  padding: 0;
+
+  margin: 0;
+
+}
+
+
+
+body { font-family: "Open Sans", sans-serif; }
+
+
+
+html, body {
+
+  height: 100%;
+
+  overflow: hidden;
+
+}
+
+
+
+h1 {
+
+  font-size: 6em;
+
+  font-weight: normal;
+
+}
+
+
+
+p {
+
+  font-size: 2em;
+
+  margin: 0.5em 0 2em 0;
+
+}
+
+
+
+#container, .section {
+
+  height: 100%;
+
+  position: relative;
+
+}
+
+
+
+#section0,  #section1,  #section2,  #section3 {
+
+  background-color: #000;
+
+  background-size: cover;
+
+  background-position: 50% 50%;
+
+}
+
+
+
+#section0 {
+
+  background-image: url(images/1.jpg);
+
+  color: #fff;
+
+  text-shadow: 1px 1px 1px #333;
+
+}
+
+
+
+#section1 {
+
+  color: #fff;
+
+  text-shadow: 1px 1px 1px #333;
+
+  background-image: url(images/2.jpg);
+
+}
+
+
+
+#section2 {
+
+  background-image: url(images/3.jpg);
+
+  color: #fff;
+
+  text-shadow: 1px 1px 1px #666;
+
+}
+
+
+
+#section3 {
+
+  color: #008283;
+
+  background-image: url(images/4.jpg);
+
+  text-shadow: 1px 1px 1px #fff;
+
+}
+
+
+
+#section0 p { color: #F1FF00; }
+
+
+
+#section3 p { color: #00A3AF; }
+
+
+
+.left { float: left; }
+
+
+
+.intro {
+
+  position: absolute;
+
+  top: 50%;
+
+  width: 100%;
+
+  -webkit-transform: translateY(-50%);
+
+  transform: translateY(-50%);
+
+  text-align: center;
+
+}
+
+
+
+#pages {
+
+  position: fixed;
+
+  right: 10px;
+
+  top: 50%;
+
+  list-style: none;
+
+}
+
+
+
+#pages li {
+
+  width: 8px;
+
+  height: 8px;
+
+  border-radius: 50%;
+
+  background: #fff;
+
+  margin: 0 0 10px 5px;
+
+}
+
+
+
+#pages li.active {
+
+  width: 14px;
+
+  height: 14px;
+
+  border: 2px solid #FFFE00;
+
+  background: none;
+
+  margin-left: 0;
+
+}
+
+
+
+#section0 .title {
+
+  -webkit-transform: translateX(-100%);
+
+  transform: translateX(-100%);
+
+  -webkit-animation: sectitle0 1s ease-in-out 100ms forwards;
+
+  animation: sectitle0 1s ease-in-out 100ms forwards;
+
+}
+
+
+
+#section0 p {
+
+  -webkit-transform: translateX(100%);
+
+  transform: translateX(100%);
+
+  -webkit-animation: sec0 1s ease-in-out 100ms forwards;
+
+  animation: sec0 1s ease-in-out 100ms forwards;
+
+}
+
+ @-webkit-keyframes 
+
+sectitle0 {  0% {
+
+ -webkit-transform: translateX(-100%);
+
+ transform: translateX(-100%);
+
+}
+
+ 100% {
+
+ -webkit-transform: translateX(0);
+
+ transform: translateX(0);
+
+}
+
+}
+
+ @keyframes 
+
+sectitle0 {  0% {
+
+ -webkit-transform: translateX(-100%);
+
+ transform: translateX(-100%);
+
+}
+
+ 100% {
+
+ -webkit-transform: translateX(0);
+
+ transform: translateX(0);
+
+}
+
+}
+
+ @-webkit-keyframes 
+
+sec0 {  0% {
+
+ -webkit-transform: translateX(100%);
+
+ transform: translateX(100%);
+
+}
+
+ 100% {
+
+ -webkit-transform: translateX(0);
+
+ transform: translateX(0);
+
+}
+
+}
+
+ @keyframes 
+
+sec0 {  0% {
+
+ -webkit-transform: translateX(100%);
+
+ transform: translateX(100%);
+
+}
+
+ 100% {
+
+ -webkit-transform: translateX(0);
+
+ transform: translateX(0);
+
+}
+
+}
+
+</style>
+
+  </head>
+
+  <body>
+
+<div id="container">
+
+    <div class="section active" id="section0">
+
+    <div class="intro">
+
+        <h1 class="title">jQuery switchPage.js Plugin Demo</h1>
+
+        <p>This is Section One</p>
+
+      </div>
+
+  </div>
+
+    <div class="section" id="section1">
+
+    <div class="intro">
+
+        <h1 class="title">Section Two</h1>
+
+        <p>This is Section Two</p>
+
+        <img src="images/example.png"/> </div>
+
+  </div>
+
+    <div class="section" id="section2">
+
+    <div class="intro">
+
+        <h1 class="title">Section Three</h1>
+
+        <p>This is Section Three</p>
+
+        <img src="images/example2.png"/> </div>
+
+  </div>
+
+    <div class="section" id="section3">
+
+    <div class="intro">
+
+        <p>Section Four</p>
+
+        <p>This is Section Four</p>
+
+      </div>
+
+  </div>
+
+  </div>
+
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script> 
+
+<script type="text/javascript" src="switchPage.js"></script> 
+
+<script type="text/javascript">
+
+    $(function(){
+
+      $("#container").switchPage({
+
+        'loop' : true,
+
+        'keyboard' : true,
+
+        'direction' : 'horizontal'
+
+      });
+
+    });
+
+  </script>
+
+  <script type="text/javascript">
+
+
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+
+  _gaq.push(['_trackPageview']);
+
+
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+[
+    {
+        "collegeName": "人文社會科學學院",
+        "collegeID": "ndhu_01"
+    },
+    {
+        "collegeName": "花師教育學院",
+        "collegeID": "ndhu_02"
+    },
+    {
+        "collegeName": "原住民民族學院",
+        "collegeID": "ndhu_03"
+    },
+    {
+        "collegeName": "海洋科學學院",
+        "collegeID": "ndhu_04"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "ndhu_05"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ndhu_06"
+    },
+    {
+        "collegeName": "環境學院",
+        "collegeID": "ndhu_07"
+    },
+    {
+        "collegeName": "藝術學院",
+        "collegeID": "ndhu_08"
+    }
+]

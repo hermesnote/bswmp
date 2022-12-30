@@ -1,0 +1,14 @@
+﻿[
+    {
+        "collegeID": "0003_01",
+        "collegeName": "文學院"
+    },
+    {
+        "collegeID": "0003_02",
+        "collegeName": "社會科學院"
+    },
+    {
+        "collegeID": "0003_03",
+        "collegeName": "理學院"
+    }
+]

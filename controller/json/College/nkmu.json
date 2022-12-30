@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "水圈學院",
+        "collegeID": "nkmu_01"
+    },
+    {
+        "collegeName": "海事學院",
+        "collegeID": "nkmu_02"
+    },
+    {
+        "collegeName": "海洋工程學院",
+        "collegeID": "nkmu_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "nkmu_04"
+    }
+]

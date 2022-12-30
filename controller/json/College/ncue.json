@@ -1,0 +1,30 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "ncue_01"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "ncue_02"
+    },
+    {
+        "collegeName": "技術及職業教育學院",
+        "collegeID": "ncue_03"
+    },
+    {
+        "collegeName": "社會科學暨體育學院",
+        "collegeID": "ncue_04"
+    },
+    {
+        "collegeName": "教育學院",
+        "collegeID": "ncue_05"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "ncue_06"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ncue_07"
+    }
+]

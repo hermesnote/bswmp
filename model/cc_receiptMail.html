@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<style>
+	#wmpimg{
+		width: 280px;
+		height: 280px;
+		position: absolute;
+		z-index: -1;
+		left: 0;
+		right: 0;
+		margin: 100px auto;
+	}
+	h2{
+		margin-left: 20px;
+	}
+</style>
+
+<meta charset='utf-8' />
+<table border='0' bordercolor='#000000' cellpadding='0' cellspacing='0' width='1000px' align='center'>
+	<tr>
+		<td colspan='2' style='font-size: 40px;text-align: center;font-weight: bold;'>
+			<img src='https://wmpcca.com/bswmp/form/img/wmp.png' alt='' id='wmpimg'>
+			<p>社 團 法 人 台 灣 財 富 管 理 規 劃 顧 問 認 證 協 會</p><br>
+			<p>收 款 收 據</p><br>
+			<p>中華民國   <?php echo $PaymentDateY; ?> 年   <?php echo $PaymentDateM; ?> 月   <?php echo $PaymentDateD; ?> 日</p>
+		</td>
+	</tr>
+
+	<tr>
+		<td width='50%'>
+			<p style='margin-left: 20px;font-size: 20px;'>協會統一編號:31814240</p>
+			<p style='margin-left: 20px;font-size: 20px;'>協會立案證號:台內設字第1070035817號</p>
+			<p style='margin-left: 20px;font-size: 20px;'>法人登記證書:登記簿第148冊第69頁第3162號</p>
+		</td>
+		<td width='50%'>
+			<p style='font-size: 40px;text-align: center;'>NO.<?php echo $receiptNO; ?></p>
+		</td>
+	</tr>
+</table>
+<table border='1' bordercolor='#000000' cellpadding='0' cellspacing='0' width='1000px' align='center'>
+	<tr>
+		<td width='25%'><h2>繳款人</h2></td>
+		<td width='75%' style='text-align: center;'>
+			<h2><?php echo $school; ?> <?php echo $teamName; ?>隊　<?php echo $captainName;?> <?php echo $member1Name; ?> <?php echo $member2Name; ?></h2>
+		</td>
+	</tr>
+	<tr>
+		<td><h2>項目名稱</h2></td>
+		<td style='text-align: center;'><h2><?php echo $projectName; ?></h2></td>
+	</tr>
+	<tr>
+		<td><h2>金額</h2></td>
+		<td style='text-align: center;'><h2>新台幣NT$ <?php echo $MN; ?>元 整</h2></td>
+	</tr>
+	<tr>
+		<td><h2>備註</h2></td>
+		<td style='text-align: center;'><h2></h2></td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+			<h2>社團法人台灣財富管理規劃顧問認證協會 理事長 <img src='https://wmpcca.com/bswmp/form/img/wmp011.png' width='8%' height='8%' alt='' style='vertical-align: sub;'>　秘書長 <img src='https://wmpcca.com/bswmp/form/img/wmp022.png' width='8%' height='8%' alt='' style='vertical-align: sub;'>　會計 <img src='https://wmpcca.com/bswmp/form/img/wmp033.png' width='8%' height='8%' alt='' style='vertical-align: sub;'></h2>
+		</td>
+	</tr>
+</table>
+<div style='text-align: center;margin-top: 50px;'>
+<button onclick='printPage();'>列印本頁</button><br>
+<p>※列印後可自行裁剪，保留收據完整性即可</p>
+</div>
+<script type='text/javascript'>
+function printPage()
+  {
+  window.print()
+  }
+</script>
+<p><h3>$teamNO (隊編) = <?php echo $teamNO;?></h3></p>
+<p><h3>$orderTime (報名時間) = <?php echo $orderTime;?></h3></p>
+<p><h3>$projectName (項目名稱) = <?php echo $projectName;?></h3></p>
+<p><h3>$MN (繳費金額) = <?php echo $MN;?></h3></p>
+<p><h3>$payStatus (繳費狀態) = <?php echo $payStatus;?></h3></p>
+<p><h3>$payTime (繳費時間) = <?php echo $payTime;?></h3></p>
+<p><h3>$PaymentDateY (繳費時間-民國年) = <?php echo $PaymentDateY;?></h3></p>
+<p><h3>$PaymentDateM (繳費時間-月) = <?php echo $PaymentDateM;?></h3></p>
+<p><h3>$PaymentDateD (繳費時間-日) = <?php echo $PaymentDateD;?></h3></p>
+<p><h3>$receiptTitle (收據抬頭) = <?php echo $receiptTitle;?></h3></p>
+<p><h3>$taxID (統一編號) = <?php echo $taxID;?></h3></p>
+<p><h3>$paymentInfo1 (繳費銀行) = <?php echo $paymentInfo1;?></h3></p>
+<p><h3>$paymentInfo2 (繳費帳號) = <?php echo $paymentInfo2;?></h3></p>
+<p><h3>$paymentInfo3 (超商代碼) = <?php echo $paymentInfo3;?></h3></p>
+<p><h3>$firstReport (初賽報告) = <?php echo $firstReport;?></h3></p>
+<p><h3>$firstRound (初賽成績) =<?php echo $firstRound;?></h3></p>
+<p><h3>$secondReport (決賽報告) =<?php echo $secondReport;?></h3></p>
+<p><h3>$secondRound (決賽成績) = <?php echo $secondRound;?></h3></p>
+<p><h3>$school (代表學校) = <?php echo $school;?></h3></p>
+<p><h3>$teamName (隊名) = <?php echo $teamName;?></h3></p>
+<p><h3>$teacher (指導老師) = <?php echo $teacher;?></h3></p>
+<p><h3>$captainName (隊長姓名) = <?php echo $captainName;?></h3></p>
+<p><h3>$member1Name (隊員1姓名) = <?php echo $member1Name;?></h3></p>
+<p><h3>$member2Name (隊員2姓名) = <?php echo $member2Name;?></h3></p>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+[
+    {
+        "collegeName": "人文藝術學院",
+        "collegeID": "ncyu_01"
+    },
+    {
+        "collegeName": "生命科學院",
+        "collegeID": "ncyu_02"
+    },
+    {
+        "collegeName": "師範學院",
+        "collegeID": "ncyu_03"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "ncyu_04"
+    },
+    {
+        "collegeName": "農學院",
+        "collegeID": "ncyu_05"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ncyu_06"
+    },
+    {
+        "collegeName": "獸醫學院",
+        "collegeID": "ncyu_07"
+    }
+]

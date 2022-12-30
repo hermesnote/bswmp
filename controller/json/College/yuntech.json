@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "人文與科學學院",
+        "collegeID": "yuntech_01"
+    },
+    {
+        "collegeName": "工程學院",
+        "collegeID": "yuntech_02"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "yuntech_03"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "yuntech_04"
+    }
+]

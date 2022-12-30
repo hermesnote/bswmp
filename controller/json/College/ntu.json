@@ -1,0 +1,66 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "ntu_01"
+    },
+    {
+        "collegeName": "公共衛生學院",
+        "collegeID": "ntu_02"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "ntu_03"
+    },
+    {
+        "collegeName": "牙醫專業學院",
+        "collegeID": "ntu_04"
+    },
+    {
+        "collegeName": "生命科學院",
+        "collegeID": "ntu_05"
+    },
+    {
+        "collegeName": "生物資源暨農學院",
+        "collegeID": "ntu_06"
+    },
+    {
+        "collegeName": "共同教育中心",
+        "collegeID": "ntu_07"
+    },
+    {
+        "collegeName": "法律學院",
+        "collegeID": "ntu_08"
+    },
+    {
+        "collegeName": "社會科學院",
+        "collegeID": "ntu_09"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "ntu_10"
+    },
+    {
+        "collegeName": "進修推廣部",
+        "collegeID": "ntu_11"
+    },
+    {
+        "collegeName": "電機資訊學院",
+        "collegeID": "ntu_12"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ntu_13"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "ntu_14"
+    },
+    {
+        "collegeName": "獸醫專業學院",
+        "collegeID": "ntu_15"
+    },
+    {
+        "collegeName": "藥學專業學院",
+        "collegeID": "ntu_16"
+    }
+]

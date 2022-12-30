@@ -1,0 +1,18 @@
+[
+    {
+        "collegeName": "工學群",
+        "collegeID": "fotech_01"
+    },
+    {
+        "collegeName": "文創與設計學群",
+        "collegeID": "fotech_02"
+    },
+    {
+        "collegeName": "商管學群",
+        "collegeID": "fotech_03"
+    },
+    {
+        "collegeName": "餐旅學群",
+        "collegeID": "fotech_04"
+    }
+]

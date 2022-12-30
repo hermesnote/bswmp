@@ -1,0 +1,14 @@
+[
+    {
+        "collegeName": "人文暨設計學院",
+        "collegeID": "lhu_01"
+    },
+    {
+        "collegeName": "工程學院",
+        "collegeID": "lhu_02"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "lhu_03"
+    }
+]

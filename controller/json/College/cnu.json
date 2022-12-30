@@ -1,0 +1,22 @@
+[
+    {
+        "collegeName": "人文暨資訊應用學院",
+        "collegeID": "cnu_01"
+    },
+    {
+        "collegeName": "民生學院",
+        "collegeID": "cnu_02"
+    },
+    {
+        "collegeName": "休閒暨健康管理學院",
+        "collegeID": "cnu_03"
+    },
+    {
+        "collegeName": "環境永續學院",
+        "collegeID": "cnu_04"
+    },
+    {
+        "collegeName": "藥理學院",
+        "collegeID": "cnu_05"
+    }
+]

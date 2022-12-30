@@ -1,0 +1,38 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "thu_01"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "thu_02"
+    },
+    {
+        "collegeName": "法律學院",
+        "collegeID": "thu_03"
+    },
+    {
+        "collegeName": "社會科學學院",
+        "collegeID": "thu_04"
+    },
+    {
+        "collegeName": "國際學院",
+        "collegeID": "thu_05"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "thu_06"
+    },
+    {
+        "collegeName": "創意設計暨藝術學院",
+        "collegeID": "thu_07"
+    },
+    {
+        "collegeName": "農學院",
+        "collegeID": "thu_08"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "thu_09"
+    }
+]

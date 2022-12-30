@@ -1,0 +1,34 @@
+[
+    {
+        "collegeName": "人文與社會科學院",
+        "collegeID": "ym_01"
+    },
+    {
+        "collegeName": "牙醫學院",
+        "collegeID": "ym_02"
+    },
+    {
+        "collegeName": "生命科學院",
+        "collegeID": "ym_03"
+    },
+    {
+        "collegeName": "生物醫學暨工程學院",
+        "collegeID": "ym_04"
+    },
+    {
+        "collegeName": "學士班大一大二不分系",
+        "collegeID": "ym_05"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "ym_06"
+    },
+    {
+        "collegeName": "藥物科學院",
+        "collegeID": "ym_07"
+    },
+    {
+        "collegeName": "護理學院",
+        "collegeID": "ym_08"
+    }
+]

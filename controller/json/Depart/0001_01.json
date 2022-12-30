@@ -1,0 +1,14 @@
+﻿[
+    {
+	"departID":"01111001",
+        "departName": "教育學系"
+    },
+    {
+	"departID":"01114005",
+        "departName": "教育行政與政策研究所"
+    },
+    {
+	"departID":"01114006",
+        "departName": "學校行政碩士在職專班" 
+    }
+]

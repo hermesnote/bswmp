@@ -1,0 +1,30 @@
+[
+    {
+        "collegeName": "人文社會學院",
+        "collegeID": "cjcu_01"
+    },
+    {
+        "collegeName": "永續教育學院",
+        "collegeID": "cjcu_02"
+    },
+    {
+        "collegeName": "神學院",
+        "collegeID": "cjcu_03"
+    },
+    {
+        "collegeName": "健康科學學院",
+        "collegeID": "cjcu_04"
+    },
+    {
+        "collegeName": "資訊暨設計學院",
+        "collegeID": "cjcu_05"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "cjcu_06"
+    },
+    {
+        "collegeName": "環境教育國際實驗學院",
+        "collegeID": "cjcu_07"
+    }
+]

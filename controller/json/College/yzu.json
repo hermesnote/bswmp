@@ -1,0 +1,22 @@
+[
+  {
+    "collegeName": "人文社會學院",
+    "collegeID": "yzu_01"
+  },
+  {
+    "collegeName": "工程學院",
+    "collegeID": "yzu_02"
+  },
+  {
+    "collegeName": "資訊學院",
+    "collegeID": "yzu_03"
+  },
+  {
+    "collegeName": "電機通訊學院",
+    "collegeID": "yzu_04"
+  },
+  {
+    "collegeName": "管理學院",
+    "collegeID": "yzu_05"
+  }
+]

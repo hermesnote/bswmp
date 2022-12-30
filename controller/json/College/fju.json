@@ -1,0 +1,50 @@
+[
+    {
+        "collegeName": "文學院",
+        "collegeID": "fju_01"
+    },
+    {
+        "collegeName": "外國語文學院",
+        "collegeID": "fju_02"
+    },
+    {
+        "collegeName": "民生學院",
+        "collegeID": "fju_03"
+    },
+    {
+        "collegeName": "法律學院",
+        "collegeID": "fju_04"
+    },
+    {
+        "collegeName": "社會科學院",
+        "collegeID": "fju_05"
+    },
+    {
+        "collegeName": "教育學院",
+        "collegeID": "fju_06"
+    },
+    {
+        "collegeName": "理工學院",
+        "collegeID": "fju_07"
+    },
+    {
+        "collegeName": "傳播學院",
+        "collegeID": "fju_08"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "fju_09"
+    },
+    {
+        "collegeName": "織品服裝學院",
+        "collegeID": "fju_10"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "fju_11"
+    },
+    {
+        "collegeName": "藝術學院",
+        "collegeID": "fju_12"
+    }
+]

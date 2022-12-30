@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>KEYs查詢</title>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+</head>
+
+<body>
+	
+	<div>
+		<form>
+			
+			請輸入帳號：<input type="text" name="UserName" id="UserName">
+			<input type="button" value="SUBMIT" id="submitCHK">
+			
+		</form>
+	</div>
+	
+<hr>
+	
+	<div>
+		
+		<table border="1">
+			<tr>
+				<td width="100">姓名</td>
+				<td width="300" id="getUserName"></td>
+			</tr>
+			<tr>
+				<td>版本</td>
+				<td id="getRoleID"></td>
+			</tr>
+			<tr>
+				<td>起始日</td>
+				<td id="getStartDate"></td>
+			</tr>
+			<tr>
+				<td>到期日</td>
+				<td id="getEndDate"></td>
+			</tr>
+			<tr>
+				<td>狀態</td>
+				<td id="getRowStatus"></td>
+			</tr>
+			<tr>
+				<td>最高版本</td>
+				<td id="getVersion"></td>
+			</tr>
+		</table>
+		
+	</div>
+	
+
+	<script>
+		$('#submitCHK').click(function () {
+			const data = $('#UserName').val()
+			$.ajax({
+				url:`https://www.holdingkeys.com/hermesAPI/api/member?userId=${data}`,
+				contentType:'application/json'
+				}).done(function (resp) {
+					if(resp.success){
+						$('#getUserName').text(resp.data.userName)
+						$('#getRoleID').text(resp.data.roleID)
+						$('#getStartDate').text(resp.data.startDate)
+						$('#getEndDate').text(resp.data.endDate)
+						$('#getRowStatus').text(resp.data.rowStatus)
+						$('#getVersion').text(resp.data.version)
+					}else{
+						alert(resp.message)
+					}
+					const v1 = resp.data.roleID
+					var v2 = resp.data.version
+					var v3 = resp.data.endDate
+					if (v1 === '1' && v2 === '1'){
+						alert('CS or UP');
+					}else if (v1 === '2' && v2 === '2'){
+						alert('CP');
+					}else if (v1 === '1' && v2 === null){
+						alert('BP or BS');
+					}
+				});
+		})
+		</script>
+	
+</body>
+</html>

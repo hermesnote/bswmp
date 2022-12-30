@@ -1,0 +1,30 @@
+[
+    {
+        "collegeName": "人文社會科學院",
+        "collegeID": "kmu_01"
+    },
+    {
+        "collegeName": "口腔醫學院",
+        "collegeID": "kmu_02"
+    },
+    {
+        "collegeName": "生命科學院",
+        "collegeID": "kmu_03"
+    },
+    {
+        "collegeName": "健康科學院",
+        "collegeID": "kmu_04"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "kmu_05"
+    },
+    {
+        "collegeName": "藥學院",
+        "collegeID": "kmu_06"
+    },
+    {
+        "collegeName": "護理學院",
+        "collegeID": "kmu_07"
+    }
+]

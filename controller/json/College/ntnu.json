@@ -1,0 +1,38 @@
+[
+    {
+        "collegeName": "文學院",
+        "collegeID": "ntnu_01"
+    },
+    {
+        "collegeName": "科技與工程學院",
+        "collegeID": "ntnu_02"
+    },
+    {
+        "collegeName": "音樂學院",
+        "collegeID": "ntnu_03"
+    },
+    {
+        "collegeName": "國際與社會科學學院",
+        "collegeID": "ntnu_04"
+    },
+    {
+        "collegeName": "教育學院",
+        "collegeID": "ntnu_05"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "ntnu_06"
+    },
+    {
+        "collegeName": "運動與休閒學院",
+        "collegeID": "ntnu_07"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ntnu_08"
+    },
+    {
+        "collegeName": "藝術學院",
+        "collegeID": "ntnu_09"
+    }
+]

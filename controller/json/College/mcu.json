@@ -1,0 +1,46 @@
+[
+    {
+        "collegeName": "法律學院",
+        "collegeID": "mcu_01"
+    },
+    {
+        "collegeName": "社會科學院",
+        "collegeID": "mcu_02"
+    },
+    {
+        "collegeName": "金融科技學院",
+        "collegeID": "mcu_03"
+    },
+    {
+        "collegeName": "健康科技學院",
+        "collegeID": "mcu_04"
+    },
+    {
+        "collegeName": "國際學院",
+        "collegeID": "mcu_05"
+    },
+    {
+        "collegeName": "教育暨應用語文學院",
+        "collegeID": "mcu_06"
+    },
+    {
+        "collegeName": "設計學院",
+        "collegeID": "mcu_07"
+    },
+    {
+        "collegeName": "傳播學院",
+        "collegeID": "mcu_08"
+    },
+    {
+        "collegeName": "資訊學院",
+        "collegeID": "mcu_09"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "mcu_10"
+    },
+    {
+        "collegeName": "觀光學院",
+        "collegeID": "mcu_11"
+    }
+]

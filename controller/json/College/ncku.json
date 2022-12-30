@@ -1,0 +1,42 @@
+[
+    {
+        "collegeName": "工學院",
+        "collegeID": "ncku_01"
+    },
+    {
+        "collegeName": "文學院",
+        "collegeID": "ncku_02"
+    },
+    {
+        "collegeName": "生物科學與科技學院",
+        "collegeID": "ncku_03"
+    },
+    {
+        "collegeName": "社會科學院",
+        "collegeID": "ncku_04"
+    },
+    {
+        "collegeName": "理學院",
+        "collegeID": "ncku_05"
+    },
+    {
+        "collegeName": "規劃與設計學院",
+        "collegeID": "ncku_06"
+    },
+    {
+        "collegeName": "跨院之學士學位學程",
+        "collegeID": "ncku_07"
+    },
+    {
+        "collegeName": "電機資訊學院",
+        "collegeID": "ncku_08"
+    },
+    {
+        "collegeName": "管理學院",
+        "collegeID": "ncku_09"
+    },
+    {
+        "collegeName": "醫學院",
+        "collegeID": "ncku_10"
+    }
+]

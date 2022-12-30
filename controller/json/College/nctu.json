@@ -1,0 +1,46 @@
+[
+  {
+    "collegeName": "人文社會學院",
+    "collegeID": "nctu_01"
+  },
+  {
+    "collegeName": "工學院",
+    "collegeID": "nctu_02"
+  },
+  {
+    "collegeName": "生物科技學院",
+    "collegeID": "nctu_03"
+  },
+  {
+    "collegeName": "光電學院",
+    "collegeID": "nctu_04"
+  },
+  {
+    "collegeName": "客家文化學院",
+    "collegeID": "nctu_05"
+  },
+  {
+    "collegeName": "科技法律學院",
+    "collegeID": "nctu_06"
+  },
+  {
+    "collegeName": "國際半導體產業學院",
+    "collegeID": "nctu_07"
+  },
+  {
+    "collegeName": "理學院",
+    "collegeID": "nctu_08"
+  },
+  {
+    "collegeName": "資訊學院",
+    "collegeID": "nctu_09"
+  },
+  {
+    "collegeName": "電機學院",
+    "collegeID": "nctu_10"
+  },
+  {
+    "collegeName": "管理學院",
+    "collegeID": "nctu_11"
+  }
+]
